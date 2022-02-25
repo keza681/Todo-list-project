@@ -25,8 +25,19 @@
   <body>
     <section class="todolist">
       <div class="todo-header">
-        <h3>Today's To Do</h3>
+        <h1>Todo List</h1>
         <a href="#"><i id="reset" class="fa fa fa-refresh"></i></a>
+      </div>
+      <div class="todo-form">
+        <form id="form">
+          <input
+            class="new-task"
+            type="text"
+            placeholder=" Add your list..."
+            minlength="3"
+          />
+          <button class="submit" type="submit">&crarr;</button>
+        </form>
       </div>
       <div class="to-dos"></div>
       <button class="clear-all">Clear all completed</button>
