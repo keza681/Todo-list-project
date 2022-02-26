@@ -1,5 +1,5 @@
 import './style.css';
-import setState from './modules/getStates.js';
+import setState from './modules/functionality.js';
 
 let tasks = [];
 const taskWrapper = document.querySelector('.to-dos');
