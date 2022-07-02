@@ -18,7 +18,7 @@
 
 - GitHub: [Visit my github](https://github.com/keza681)
 - Twitter: [Visit my twitter](https://twitter.com/LKeza19)
-- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/linda-keza)
+- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/linda-keza/)
 
 
 
