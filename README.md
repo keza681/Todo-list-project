@@ -1,12 +1,13 @@
 # Todo-list-project
-"To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. You will build a simple website that allows for doing that, and you will do it using ES6 and Webpack!
+> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. You will build a simple website that allows for doing that, and you will do it using ES6 and Webpack!
 
->View on the project
+## View on the project
 
 ![todo list](po.PNG)
+
 ## Built With
 
- Major languages
+[] Major languages
 - HTML
 - CSS
 - JAVASCRIPT
@@ -17,9 +18,7 @@
 👤 **Keza**
 
 - GitHub: [Visit my github](https://github.com/keza681)
-- Twitter: [Visit my twitter](https://twitter.com/LKeza19)
-- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/linda-keza/)
-
+- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/linda-keza) 
 
 
 ## 🤝 Contributing
@@ -37,4 +36,4 @@ Leave a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed
+This project is [MIT](./LICENSE.md) licensed
