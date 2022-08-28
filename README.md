@@ -18,8 +18,7 @@
 👤 **Keza**
 
 - GitHub: [Visit my github](https://github.com/keza681)
-- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/linda-keza)
-
+- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/linda-keza) 
 
 
 ## 🤝 Contributing
